@@ -18,7 +18,7 @@ simple binary loader.
 simple binary loader with function that hexdump specific section.
 
 ### loader_sym
-output symbol
+outputs symbol
 
 ### basic_capstone_liner
 basic liner disasembler
